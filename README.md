@@ -1,10 +1,10 @@
 # 🛒 Supermarket Sales Analysis  
-**End-to-End Data Analytics Project | Python | MySQL | Power BI**
+**Data Analytics Project | Python | MySQL | Power BI**
 
 ---
 
 ## 📌 Project Overview  
-This project demonstrates a complete **end-to-end data analytics workflow** on a **Supermarket Sales** dataset.  
+This project demonstrates a complete **data analytics** on a **Supermarket Sales** dataset.  
 It covers **data exploration, cleaning, and visualization** using **Python (EDA)**,**business insights extraction** via **MySQL**, and an **interactive dashboard** in **Power BI**. The goal was to analyze **sales performance**, **customer preferences**, **payment trends**, and **revenue distribution** to derive **actionable insights**.
 
 ---
