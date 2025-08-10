@@ -95,5 +95,10 @@ jupyter nbconvert --to notebook Supermarket_Sales_EDA.html --execute
 - **Refresh the data source connection to link it to your local or remote database**.
 
 
+## 📷 Dashboard Preview  
+![Supermarket Sales Dashboard](Dashboard_Screenshot.PNG)
+
+
+
 
 
