@@ -5,8 +5,7 @@
 
 ## 📌 Project Overview  
 This project demonstrates a complete **end-to-end data analytics workflow** on a **Supermarket Sales** dataset.  
-It covers **data exploration, cleaning, and visualization** using **Python (EDA)**,  
-**business insights extraction** via **MySQL**, and an **interactive dashboard** in **Power BI**. The goal was to analyze **sales performance**, **customer preferences**, **payment trends**, and **revenue distribution** to derive **actionable insights**.
+It covers **data exploration, cleaning, and visualization** using **Python (EDA)**,**business insights extraction** via **MySQL**, and an **interactive dashboard** in **Power BI**. The goal was to analyze **sales performance**, **customer preferences**, **payment trends**, and **revenue distribution** to derive **actionable insights**.
 
 ---
 
@@ -20,15 +19,18 @@ Supermarket_Sales_Analysis/
 └── README.md                        # Project documentation
 
 
-## 🛠 Tools & Technologies  
+## 🛠 Tools & Technologies
+```bash
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn (Exploratory Data Analysis)  
 - **MySQL**: Business queries & insights generation  
 - **Power BI**: Interactive dashboard creation  
 - **Dataset**: Supermarket Sales (3 cities, multiple product lines)
 
-## 🔍 Data Analysis Workflow  
+## 🔍 Data Analysis Workflow
+```bash 
 
-### 1️⃣ **Exploratory Data Analysis (Python)**  
+### 1️⃣ **Exploratory Data Analysis (Python)**
+```bash
 - **Data loading & inspection**  
 - **Missing value handling**  
 - **Data type conversion**  
@@ -40,7 +42,8 @@ Supermarket_Sales_Analysis/
   - **City-wise sales**  
   - **Customer type patterns**  
 
-### 2️⃣ **Business Analysis (MySQL Queries)**  
+### 2️⃣ **Business Analysis (MySQL Queries)**
+```bash
 **Key SQL queries include:**  
 - **City with the highest total revenue**  
 - **Most frequently purchased product line**  
@@ -56,7 +59,8 @@ Supermarket_Sales_Analysis/
 
 *(SQL file contains **15+ analytical queries**)*  
 
-### 3️⃣ **Visualization (Power BI Dashboard)**  
+### 3️⃣ **Visualization (Power BI Dashboard)**
+```bash 
 **Dashboard Features:**  
 - **KPIs**: Total Revenue, Total Gross, Quantity Sold, Average Rating, Total Transactions  
 - **Bar Charts**: Product line gross income, city-wise total revenue  
@@ -66,7 +70,8 @@ Supermarket_Sales_Analysis/
 
 ---
 
-## 📊 Key Insights  
+## 📊 Key Insights
+```bash 
 - **Highest revenue city**: Naypyitaw (~111K)  
 - **Top product lines by gross income**: Food and Beverages, Sports and Travel  
 - **Most used payment method**: E-Wallet (34.5%)  
@@ -77,26 +82,27 @@ Supermarket_Sales_Analysis/
 
 ## 🚀 How to Run the Project  
 
-### 1️⃣ **Python EDA**  
+### 1️⃣ **Python EDA**
+```bash
 - **Open** the **`Supermarket_Sales_EDA.html`** file in **Jupyter Notebook** or any HTML viewer.  
 - **Command to open in Jupyter**:  
 ```bash
 jupyter nbconvert --to notebook Supermarket_Sales_EDA.html --execute
 
 ### 2️⃣ MySQL Analysis
+```bash
 - **Import the dataset into MySQL**.
 
 - **Run all queries from the Supermarket_sales_query.sql file**:
 **source Supermarket_sales_query.sql**;
 
 ### 3️⃣ Power BI Dashboard
+```bash
 - **Open the Supermarket_Sales.pbix file in Power BI Desktop**.
 
-- **Refresh the data source connection to link it to your local or remote database**.
 
 
-## 📷 Dashboard Preview  
-![Supermarket Sales Dashboard](Dashboard_Screenshot.PNG)
+
 
 
 
