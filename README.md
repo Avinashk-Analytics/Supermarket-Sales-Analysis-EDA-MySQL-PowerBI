@@ -6,10 +6,7 @@
 ## 📌 Project Overview  
 This project demonstrates a complete **end-to-end data analytics workflow** on a **Supermarket Sales** dataset.  
 It covers **data exploration, cleaning, and visualization** using **Python (EDA)**,  
-**business insights extraction** via **MySQL**, and an **interactive dashboard** in **Power BI**.
-
-The goal was to analyze **sales performance**, **customer preferences**, **payment trends**,  
-and **revenue distribution** to derive **actionable insights**.
+**business insights extraction** via **MySQL**, and an **interactive dashboard** in **Power BI**. The goal was to analyze **sales performance**, **customer preferences**, **payment trends**, and **revenue distribution** to derive **actionable insights**.
 
 ---
 
