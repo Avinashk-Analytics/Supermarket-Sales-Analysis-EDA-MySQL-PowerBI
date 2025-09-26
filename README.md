@@ -66,9 +66,3 @@ From the **`Supermarket_Sales_EDA.html`** report:
 - **Payment Mode Usage:** Evenly split across three payment methods  
 - **Sales Trends:** Peaks mid-month, indicating possible payday effect
 
-## 📈 Key Business Insights
-- **Ewallet** slightly outperforms other payment methods, indicating a trend toward digital payments.  
-- **Food and Beverages** dominates revenue share, suggesting potential for targeted promotions.  
-- **Mid-month sales peaks** can inform marketing campaigns for maximum impact.  
-- **Certain product lines** have high sales volume but low margins — opportunities for pricing strategy adjustments.  .
-
