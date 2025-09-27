@@ -1,9 +1,5 @@
 # 🛒 Supermarket Sales Analysis
 
-## 📌 Project Overview
-This project performs **Exploratory Data Analysis (EDA)** and **SQL-based insights** on a supermarket sales dataset, followed by the creation of a **Power BI Dashboard** 
-to visualize key metrics.
-
 The goal is to uncover **sales trends**, **customer preferences**, and **revenue patterns** to support business decision-making.
 
 ## 📂 Project Structure
