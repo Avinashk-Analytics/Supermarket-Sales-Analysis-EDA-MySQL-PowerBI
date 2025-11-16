@@ -11,9 +11,6 @@ The goal is to uncover **sales trends**, **customer preferences**, and **revenue
 
 └── README.md # Project documentation
 
-## 📊 Dashboard Overview
-![Supermarket Sales Dashboard](Dashboard_Screenshot.PNG)
-
 **Key Metrics Displayed:**
 - **Total Revenue:** 323K  
 - **Total Gross Income:** 15K  
